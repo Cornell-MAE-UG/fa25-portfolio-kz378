@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Kaelin Zheng - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,30 +8,30 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [kz378@cornell.edu](mailto:kz378@cornell.edu) | | | **Phone:** +1 856-899-6735
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in design. Passionate about engineering and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA: 3.0/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Vineland High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, Autodesk Inventor, Autodesk Revit  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing
 
 ---
 
@@ -49,22 +49,22 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Hong Kong Gourmet] - Assistant Manager and Server**  
+  [January, 2020] - [August, 2025]  
+  - Taking orders, serving customers, cooking, managing the register, and restocking items 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Accenture North America Product Design Virtual Experience Program, Fortage, 2025
+- QMB1: Quantitative Methods for Biology, HarvardX, 2025
+- Distinguished Service Citation Award, Rotary Club of Vineland, 2023 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell's E.motion, Chinese Student Association, Badminton Club, Table Tennis Club, Encouraging Young Engineers and Scientists, Undergraduate Biomedical Engineering Society, Society of Asian Scientists and Engineers, and Science Olympiad.  
+- Volunteer for Rotary Club of Vineland  
 
 ---
 
