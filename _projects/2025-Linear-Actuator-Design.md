@@ -21,4 +21,6 @@ Key Features:
 - Selection of a high-force actuator (up to 35,810 N) to maximize weight capacity. 
 - Fully rigid frame assumption ensures efficient transfer of force without losses due to deformation.
 
+I chose the IMA55 because it has the most peak thrust.
+
 ![Photo of my linear acutuator design]({{ "/assets/images/Linear-Actuator-Design.jpg" | relative_url }}){: .inline-image-l}
