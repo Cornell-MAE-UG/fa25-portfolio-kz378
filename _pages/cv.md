@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kaelin Zheng - Curriculum Vitae
+title: Kaelin Zheng - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
