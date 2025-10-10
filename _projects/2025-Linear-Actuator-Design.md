@@ -3,7 +3,7 @@ layout: project
 title: Linear Actuator Design
 description: Linear Actuator Design
 technologies: ibisPaint X
-image: /assets/images/Linear-Actuator-Design.jpg
+image: assets/images/Linear-Actuator-Design.jpg
 ---
 
 This project involved designing a rigid lifting mechanism within a 2D design space of 150 cm by 50 cm. The objective was to maximize both the lifting height and the load capacity while adhering to strict geometric and material constraints. 
