@@ -22,4 +22,4 @@ To satisfy the deflection limit while minimizing mass, a structural steel beam w
 
 By modeling the bar as a bending beam subjected to a 33.8 kN transverse load, the final steel beam design satisfies the 2% deflection constraint while maintaining low mass. The selected rectangular cross-section provides the minimum stiffness required for structural integrity while remaining practical for fabrication and integration into the mechanism.
 
-![Photo of my linear acutuator design]({{ "/assets/images/Part-2.jpg" | relative_url }}){: .inline-image-l}
+![Photo of my linear acutuator design]({{ "/assets/images/Part-Two.jpg" | relative_url }}){: .inline-image-l}
